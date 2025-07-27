@@ -1,6 +1,6 @@
 # N4si
 Hello world, this is my profile
-<h1 align="center">Hi 👋, I'm Thanh Quan Quan</h1>
+<h1 align="center">Hi 👋, I'm Thanh Quan</h1>
 <h3 align="center">"Backend in Java, Future in Cloud | DevOps Learner | System Design Explorer"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhquan3010&label=Profile%20views&color=0e75b6&style=flat" alt="thanhquan3010" /> </p>
